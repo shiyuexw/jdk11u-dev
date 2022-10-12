@@ -6,9 +6,10 @@
 #include "Common.hh"
 #include "SubstLookup.hh"
 
-using OT::Layout::GSUB::SubstLookup;
-
 namespace OT {
+
+using Layout::GSUB::SubstLookup;
+
 namespace Layout {
 namespace GSUB {
 
